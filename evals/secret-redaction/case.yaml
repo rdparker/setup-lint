@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: secret-redaction
+description: Synthetic secrets in user env, project-local env, an http hook's headers, apiKeyHelper, a statusLine command and .mcp.json never reach the report or chat.
+context:
+  scaffold_script: fixture.sh

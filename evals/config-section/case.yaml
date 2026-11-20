@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: config-section
+description: Configuration findings, such as a shadowed permission rule, get their own section, ordered by confidence, with clean items listed last.
+context:
+  scaffold_script: fixture.sh

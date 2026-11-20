@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: skill-description
+description: A skill description that doesn't say when to use the skill is reported at low confidence; invocation history goes under Not checked.
+context:
+  scaffold_script: fixture.sh

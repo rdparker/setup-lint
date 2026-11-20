@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: guide-missing
+description: When the prompt-audit guide is missing, the report says so with two absence checks, marks step 4 findings unverified, and claims no compatibility.
+context:
+  scaffold_script: fixture.sh

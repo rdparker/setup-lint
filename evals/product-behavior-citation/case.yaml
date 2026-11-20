@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: product-behavior-citation
+description: A deprecated settings key is cited to the docs with a URL and quote; an unknown key's non-existence is backed by two independent checks.
+context:
+  scaffold_script: fixture.sh

@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: guide-changed
+description: When two quoted guide phrases are reworded, exactly those mismatches are named and only the checks that depend on them are marked unverified.
+context:
+  scaffold_script: fixture.sh
