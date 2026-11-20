@@ -1,0 +1,14 @@
+{
+  "name": "setup-lint",
+  "displayName": "Setup Lint",
+  "version": "0.1.0",
+  "description": "Read-only audit of a project's Claude Code setup (CLAUDE.md files, settings, hooks, skills, agents) against Anthropic's current docs and prompting guide. Writes a cited report and a proposed diff; applies nothing.",
+  "author": {
+    "name": "Ron Parker",
+    "url": "https://github.com/rdparker"
+  },
+  "homepage": "https://github.com/rdparker/setup-lint",
+  "repository": "https://github.com/rdparker/setup-lint",
+  "license": "MIT",
+  "keywords": ["audit", "lint", "claude-md", "settings", "hooks", "skills", "prompting"]
+}

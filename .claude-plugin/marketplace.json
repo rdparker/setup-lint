@@ -1,0 +1,15 @@
+{
+  "name": "setup-lint",
+  "owner": {
+    "name": "Ron Parker",
+    "url": "https://github.com/rdparker"
+  },
+  "description": "Setup Lint: a read-only, citation-backed audit of Claude Code project setup.",
+  "plugins": [
+    {
+      "name": "setup-lint",
+      "source": "./",
+      "description": "Audit a project's Claude Code setup against current docs and the prompting guide; write a cited report and a proposed diff."
+    }
+  ]
+}
